@@ -52,7 +52,8 @@
 			isa = PBXGroup;
 			children = (
 				87D212D4275560AB001CFAD0 /* LcsLibraryApp.swift */,
-				87D212D6275560AB001CFAD0 /* ContentView.swift */,
+				87D212E3275560EB001CFAD0 /* Views */,
+				87D212E2275560DF001CFAD0 /* Model */,
 				87D212D8275560BD001CFAD0 /* Assets.xcassets */,
 				87D212DA275560BD001CFAD0 /* Preview Content */,
 			);
@@ -65,6 +66,21 @@
 				87D212DB275560BD001CFAD0 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		87D212E2275560DF001CFAD0 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		87D212E3275560EB001CFAD0 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				87D212D6275560AB001CFAD0 /* ContentView.swift */,
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
